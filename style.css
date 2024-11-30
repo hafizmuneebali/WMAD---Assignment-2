@@ -1,0 +1,28 @@
+.mycontainer1{
+    width: 100%;
+    overflow: auto;
+}
+.mycontainer1 #firstdiv{
+    width: 65%;
+    float: left;
+    padding-right: 25px;
+}
+
+.mycontainer2{
+    width: 100%;
+    overflow: auto;
+}
+.mycontainer2 div{
+    width: 33%;
+    float: left;
+}
+
+.mycontainer3{
+    width: 100%;
+    overflow: auto;
+}
+
+.mycontainer3 div{
+    width: 33%;
+    float: left;
+}
